@@ -1,0 +1,94 @@
+<!doctype html>
+<html>
+<title>About sayali!!!</title>
+<head><h1>Let's find out What you know about sayali !!!</h1>
+<style>
+h3{color:red;} 
+</style>
+</head>
+<body>
+<h3>Enter your Beautiful name</h3>
+<b>Name</b><input type="text" placeholder="Enter your Name">
+<b>Surname</b><input type="text" placeholder="Enter your Surname"><br><br>
+<h3> Enter your Phone Number </h3>
+<b>Phone Number:</b><input type="text"><br><br>
+<b>Select Gender</b>
+<input type="radio" name=gender>Male
+<input type="radio" name=gender>Female
+<h3>Select Your City Name</h3>
+<input type="radio" name=City>Kasegaon<br>
+<input type="radio" name=City>Pandharpur<br>
+<input type="radio" name=City>Gopalpur<br>
+<input type="radio" name=City>Mumbai<br>
+<input type="radio" name=City>Nashik<br>
+<input type="radio" name=City>Chale<br>
+<input type="radio" name=City>Dubai<br>
+<input type="radio" name=City>Mangalvedha<br>
+<input type="radio" name=City>Hostellite<br>
+
+<h2>How Sayali's Nature</h2>
+<input type="radio" name=nature>Kind<br>
+<input type="radio" name=nature>Cute<br>
+<input type="radio" name=nature>Selfish<br>
+<input type="radio" name=nature>Sincere<br>
+<input type="radio" name=nature>DramaQueen<br>
+<input type="radio" name=nature>Confused<br>
+<input type="radio" name=nature>Helping<br>
+<input type="radio" name=nature>Caring<br><br>
+
+<h2> On Which place She Want to go in Future </h2>
+<input type="radio" name="place">Canada<br>
+<input type="radio" name="place">Paris<br>
+<input type="radio" name="place">London<br>
+<input type="radio" name="place">Japan<br>
+<input type="radio" name="place">Mauricius<br>
+<input type="radio" name="place">China<br>
+<input type="radio" name="place">America<br>
+<input type="radio" name="place">Switzland<br>
+<input type="radio" name="place">US<br><br>
+
+<h2>Who is the Role Model For her </h2>
+<input type="radio" name="Model">Mom-Dad<br>
+<input type="radio" name="Model">Vishwas-Nangare patil<br>
+<input type="radio" name="Model">Baba amte<br>
+<input type="radio" name="Model">Sindhutai-Sapkal<br>
+<input type="radio" name="Model">Abdul kalam<br>
+<input type="radio" name="Model">Amitabh Bacchan<br>
+<h2>Which type of food she like </h2>
+
+<input type="radio" name="food">Indian food<br>
+<ol><li>Zhunka-Bhakar</li><li>Varan-Bhat</li></ol>
+
+<input type="radio" name="food">healthy food<br>
+<ol><li>Dahi-Vada</li><li>Varan-Bhat</li></ol>
+
+<input type="radio" name="food">South-Indian<br>
+<ol><li>Poha</li><li>Sandwich</li></ol>
+
+<input type="radio" name="food">Hotel food<br>
+<ol><li>Akkha-Masur</li><li>Paneer-tikka</li></ol>
+<h2>Relation with sayali </h2>
+<select>
+	<option>Friend</option>
+	<option>Sister</option>
+	<option>Cousin</option>
+	<option>Family Relative</option>
+	<option>brother</option>
+	<option>other</option>
+</select>
+<h2>Send me Feedback, If any on given link below</h2>
+<table>
+	<table border="1">
+	<tr>
+		<th>Name</th>
+		<th>Emali-id</th>
+	</tr>
+	<tr>
+		<td>Sayali</td>
+		<td>sayalikoli1999@gmail.com</td>
+	</tr>
+</table>
+<h2>Thank you !!!!!!</h2><br>
+<button type="Submit"><mark>SUBMIT</mark></button>
+</body>
+</html>
